@@ -1,8 +1,6 @@
-<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mobile App Developer Roadmap 2025</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <style>
     body {
@@ -264,5 +262,4 @@
     </div>
     <p style="margin-top: 10px;">&copy; 2025 Anshicentric | All rights reserved.</p>
   </footer>
-</body>
-</html>
+  </body>
