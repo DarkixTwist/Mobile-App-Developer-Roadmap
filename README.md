@@ -1,10 +1,4 @@
-<!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <h1>Mobile App Developer Roadmap (2025)</h1>
+<h1>Mobile App Developer Roadmap (2025)</h1>
   <div class="section">
     <h2>Target Platforms</h2>
     <p><strong>Android (Java/Kotlin)</strong> & <strong>Cross-Platform (Flutter)</strong></p>
@@ -195,5 +189,3 @@
     </div>
     <p style="margin-top: 10px;">&copy; 2025 Anshicentric | All rights reserved.</p>
   </footer>
-</body>
-</html>
